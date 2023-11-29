@@ -1,3 +1,4 @@
+"use client"
 import { Product } from '@/types'
 import React from 'react'
 import Currency from './ui/currency';
